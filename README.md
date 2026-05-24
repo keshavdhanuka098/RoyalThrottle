@@ -1,20 +1,40 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+RoyalThrottle 🏍️
 
-# Run and deploy your AI Studio app
+RoyalThrottle is a luxury-inspired Royal Enfield showcase website built with modern web technologies, cinematic animations, and premium UI/UX.
+The website features vintage to latest Royal Enfield motorcycles with immersive scrolling effects, interactive galleries, and detailed bike specifications.
 
-This contains everything you need to run your app locally.
+✨ Features
+Premium luxury UI/UX
+Smooth scrolling animations
+Interactive bike showcase
+Vintage & latest Royal Enfield collections
+Responsive design
+Animated cinematic backgrounds
+Detailed bike specifications
+High-quality image gallery
+Rare motorcycle collection
 
-View your app in AI Studio: https://ai.studio/apps/d727f375-fe43-41f1-a8b9-1d9c3ae21297
+🚀 Tech Stack
+React
+Vite
+Tailwind CSS
+Framer Motion
+GSAP
+Three.js
 
-## Run Locally
+🌐 Live Demo
 
-**Prerequisites:**  Node.js
+RoyalThrottle Live Website
 
+📂 Installation
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+npm install
+npm run dev
+
+📦 Build
+
+npm run build
+
+👨‍💻 Developed By
+
+Keshav Dhanuka
