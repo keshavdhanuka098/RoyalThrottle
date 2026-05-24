@@ -1,0 +1,6 @@
+{
+  "name": "RoyalThrottle",
+  "description": "A premium, ultra-modern luxury motorcycle showroom inspired by the legacy and power of Royal Enfield, featuring interactive 3D particle elements, specifications, local audio synthesis, and an immersive dark theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
