@@ -24,16 +24,16 @@ Three.js
 
 🌐 Live Demo
 
-RoyalThrottle Live Website
+[Live Website](https://royallthrottle.netlify.app/)
 
 📂 Installation
 
-npm install
-npm run dev
+    npm install
+    npm run dev
 
 📦 Build
 
-npm run build
+    npm run build
 
 👨‍💻 Developed By
 
