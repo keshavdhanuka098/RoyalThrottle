@@ -37,4 +37,4 @@ Three.js
 
 👨‍💻 Developed By
 
-Keshav Dhanuka
+Keshov Dhanuka
